@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Push Button","Booting and reset",2,6.23,"https://www.amazon.com.mx/pulsador-interruptor-momentáneo-microinterruptor-automático/dp/B0DBGMNQV1","Amazon"
+"5.1K Resistors","Resistance too",2,0.10,"https://www.digikey.com.mx/es/products/detail/yageo/RC0603FR-135K1L/14008317","DigiKey"
+"10k Resistors","For resistance broo",2,0.06,"https://uelectronics.com/producto/resistor-10k-ohm-1-10w-smd-0603-rc0603fr-0710kl/","Unit Electronics"
+"3.3v Regulator","For not burning all :)",1,0.30,"https://www.digikey.com.mx/es/products/detail/evvo/AMS1117-3.3/22482148","DigiKey"
+"15µH Inductor","aidonnouman",1,0.24,"https://www.mouser.mx/ProductDetail/TAIYO-YUDEN/LSXND4040KKL150MDG","Mouser Electronics"
+"Capacitor 10µF","Decoupling",2,0.00,"https://uelectronics.com/producto/capacitor-ceramico-0805-10uf-16v-cl21a106koqnnne/","Unit Electronics"
+"Capacitor 100nF","Decouplin'",4,0.06,"https://uelectronics.com/producto/c0603x104k050t-capacitor-ceramico-0603-100nf-50v/","Unit Electronics"
+"Type C USB","Powering our board!",1,1.01,"https://es.aliexpress.com/item/1005005371954812.html","AliExpress"
+"SX1262","LoRa Transceiver",1,17.07,"https://www.amazon.com.mx/Taidacent-transceptor-inalámbrico-Transceptor-aplicaciones/dp/B083NVDGGD","Amazon"
+"ESP32-S3-WROOM-1","The brain of our board",1,6.32,"https://www.digikey.com.mx/es/products/detail/espressif-systems/ESP32-S3-WROOM-1U-N8R8/16162638","DigiKey"
