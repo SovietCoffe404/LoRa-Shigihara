@@ -10,3 +10,25 @@ For this project I'm only using KiCad, so I will leave my files right here if u 
 <img width="1919" height="1008" alt="Screenshot 2026-05-16 205356" src="https://github.com/user-attachments/assets/4d143e8a-0fa3-4348-8e6f-4c8268e5802b" />
 
 <img width="1654" height="276" alt="Screenshot 2026-05-16 235403" src="https://github.com/user-attachments/assets/b03aa1f0-0993-408b-a317-638b864830e9" />
+
+Heres my BOM of this project in case u need it!
+
+-Push Button
+
+-5.1K Resistors
+
+-10k Resistors
+
+-3.3v Regulator
+
+-15ÂµH Inductor
+
+-Capacitor 10ÂµF
+
+-Capacitor 100nF
+
+-Type C USB
+
+-SX1262
+
+-ESP32-S3-WROOM-1
