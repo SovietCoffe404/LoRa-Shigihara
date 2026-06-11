@@ -12,6 +12,8 @@ For this project I'm only using KiCad, so I will leave my files right here if u 
 
 <img width="1654" height="276" alt="Screenshot 2026-05-16 235403" src="https://github.com/user-attachments/assets/b03aa1f0-0993-408b-a317-638b864830e9" />
 
+<img width="1919" height="990" alt="Screenshot 2026-06-11 163029" src="https://github.com/user-attachments/assets/b4f11127-bcbf-40e9-815e-66bf80ddd3a5" />
+
 Heres my BOM of this project in case u need it!
 
 -Push Button
