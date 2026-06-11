@@ -1,4 +1,4 @@
-[LoRa Shigihara-bom.md](https://github.com/user-attachments/files/28859343/LoRa.Shigihara-bom.md)# LoRa-Shigihara
+LoRa-Shigihara
 This is another HC project; this time it is a LoRa board with an ESP32-S3, SX1262 radio, and U.FL antenna! :D
 Made this project because I was a little bit curious 'bout my PCB-Making skills and how to integrate this intoa ESP-32 Marauder
 
