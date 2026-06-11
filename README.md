@@ -14,7 +14,7 @@ For this project I'm only using KiCad, so I will leave my files right here if u 
 
 <img width="1919" height="990" alt="Screenshot 2026-06-11 163029" src="https://github.com/user-attachments/assets/b4f11127-bcbf-40e9-815e-66bf80ddd3a5" />
 
-[Uploadin|Name            |Purpose               |Quantity|Total Cost (USD)|Link                                                                                               |Distributor       |
+|Name            |Purpose               |Quantity|Total Cost (USD)|Link                                                                                               |Distributor       |
 |----------------|----------------------|--------|----------------|---------------------------------------------------------------------------------------------------|------------------|
 |Push Button     |Booting and reset     |2       |6.23            |https://www.amazon.com.mx/pulsador-interruptor-momentáneo-microinterruptor-automático/dp/B0DBGMNQV1|Amazon            |
 |5.1K Resistors  |Resistance too        |2       |0.10            |https://www.digikey.com.mx/es/products/detail/yageo/RC0603FR-135K1L/14008317                       |DigiKey           |
@@ -26,5 +26,4 @@ For this project I'm only using KiCad, so I will leave my files right here if u 
 |Type C USB      |Powering our board!   |1       |1.01            |https://es.aliexpress.com/item/1005005371954812.html                                               |AliExpress        |
 |SX1262          |LoRa Transceiver      |1       |17.07           |https://www.amazon.com.mx/Taidacent-transceptor-inalámbrico-Transceptor-aplicaciones/dp/B083NVDGGD |Amazon            |
 |ESP32-S3-WROOM-1|The brain of our board|1       |6.32            |https://www.digikey.com.mx/es/products/detail/espressif-systems/ESP32-S3-WROOM-1U-N8R8/16162638    |DigiKey           |
-g LoRa Shigihara-bom.md…]()
 
