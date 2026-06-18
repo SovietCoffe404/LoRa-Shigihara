@@ -4,6 +4,8 @@ Made this project because I was a little bit curious 'bout my PCB-Making skills 
 
 For this project I'm only using KiCad, so I will leave my files right here if u wanna make yours or just take a look to them.
 
+<img width="959" height="482" alt="Screenshot 2026-06-17 192539" src="https://github.com/user-attachments/assets/14658a8f-bce5-4a6d-a1ce-8b28b8f031b4" />
+
 <img width="769" height="747" alt="Screenshot 2026-05-16 205504" src="https://github.com/user-attachments/assets/92132a74-d42b-4656-8d81-b121e59ce4ae" />
 
 <img width="1919" height="1005" alt="Screenshot 2026-05-16 205431" src="https://github.com/user-attachments/assets/c623e093-1026-4589-9df4-6fa9fb4873f7" />
